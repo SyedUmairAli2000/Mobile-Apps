@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EasyQuestions</string>
+
+
+    <string name="correctAnswer">Correct Answer !</string>
+    <string name="wrongAnswer">Wrong Answer</string>
+    <string name="initialScore">0/10</string>
+    <string name="correctAnswerToast">Great !</string>
+    <string name="wrongAnswerToast">Wrong Answer</string>
+
+    //Questions
+    <string name="q1">The earth is the fourth planet from the sun.?</string>
+    <string name="q2">The planet Venus has no moons.?</string>
+    <string name="q3">Fresh fruit is a healthier daily dietary choice than dried fruit.?</string>
+    <string name="q4">You should warm-up before exercising.?</string>
+    <string name="q5">Cutting your fat intake is good for your skin.?</string>
+    <string name="q6">Skipping sleep can cause weight gain.?</string>
+    <string name="q7">Ralph Lauren’s real name was Ralph Lifshitz.?</string>
+    <string name="q8">Dry skin only happens in the winter.?</string>
+    <string name="q9">Harry Potter’s middle name is James.</string>
+    <string name="q10">Batman is a Marvel character.</string>
+</resources>

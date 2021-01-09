@@ -1,0 +1,12 @@
+{
+  "name": "PayTheBill",
+  "displayName": "PayTheBill",
+  "expo": {
+    "name": "PayTheBill",
+    "slug": "PayTheBill",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
